@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.112.32.138:8073/gastiganto/admin/auth/login'</initValue>
+      <name>UrlLogin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://10.112.32.138:8073/gastiganto/admin/reservaciones'</initValue>
+      <name>UrlReservaciones</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'danielrvp27@gmail.com'</initValue>
+      <name>Usuario</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'contraseña'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'administrador@mail.com'</initValue>
+      <name>mainUser</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'secret'</initValue>
+      <name>mainPassword</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

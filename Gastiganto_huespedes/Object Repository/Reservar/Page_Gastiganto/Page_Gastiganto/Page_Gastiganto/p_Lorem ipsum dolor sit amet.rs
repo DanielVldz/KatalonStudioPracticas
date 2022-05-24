@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Lorem ipsum dolor sit amet</name>
+   <tag></tag>
+   <elementGuidId>08489ea2-d25a-465b-8e4b-6de99f7280db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//p[@id='condiciones']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#condiciones</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>condiciones</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu tempus ipsum, in maximus ipsum. Phasellus vitae facilisis ante. Morbi auctor, ligula sed dapibus gravida, quam erat lacinia est, sed sagittis lorem mauris a nulla. Pellentesque accumsan eros sit amet risus venenatis congue. Fusce eu tincidunt ipsum. Quisque sed erat ac nisl tincidunt aliquam. Mauris orci magna, consectetur a nisi quis, interdum tempor felis. Aliquam ut turpis sagittis ipsum posuere auctor at ut justo. Donec non cursus purus, vitae scelerisque turpis. Maecenas convallis laoreet mauris eu commodo. In blandit tortor sit amet sapien egestas, nec vestibulum tellus sollicitudin. Nullam id ipsum nunc. Cras id malesuada nisl. In iaculis congue est, nec pretium mauris finibus sit amet. Quisque ut egestas magna. Ut sed lorem id quam commodo malesuada. Fusce vel sagittis quam. In id magna at elit lobortis posuere. Pellentesque dapibus nibh non sem tempus accumsan. Sed at lacus vitae nulla finibus tristique ut vel nibh. Donec at diam quis nisi pretium accumsan. Morbi turpis metus, interdum eu ex sed, luctus blandit ante. Praesent consectetur convallis ligula iaculis sagittis. Nullam vitae tincidunt ante, eget tincidunt nisi. Maecenas ac quam facilisis purus luctus pulvinar tristique nec dolor. Nulla in erat ut urna varius porttitor nec ac erat. Curabitur felis sem, feugiat eu luctus non, vulputate pellentesque ipsum. Pellentesque tristique ipsum sed erat mollis lobortis. Sed eget metus non leo molestie tempor vel sit amet nisi. Sed varius turpis ut purus vulputate, quis suscipit mi rhoncus. Fusce euismod blandit venenatis. Nam eu volutpat orci. Sed tincidunt libero nec nisl fringilla, eget malesuada mi sollicitudin. Cras mollis nunc in ipsum volutpat congue. Proin eleifend felis leo, quis scelerisque ex maximus eget. Proin vel ante vulputate, pulvinar nibh vel, cursus lorem. Fusce ac tortor diam. Nam molestie augue a magna viverra, quis rhoncus enim faucibus. Integer eget metus tortor. Integer hendrerit erat molestie lorem ultricies semper. Morbi ut semper risus. Morbi massa dolor, finibus consequat dui et, efficitur suscipit leo. Sed ante ex, tincidunt sit amet lacinia eu, viverra hendrerit arcu. Aliquam tincidunt non nulla vel rutrum. Cras luctus, leo non congue tristique, lorem orci fermentum nisi, ac congue neque elit sit amet ipsum. Pellentesque pretium augue quis feugiat scelerisque. Nulla mollis a nisi nec sodales. Maecenas tempor sit amet lacus quis elementum. Duis scelerisque faucibus nisl, sed interdum ante luctus a. Vestibulum interdum velit eu imperdiet placerat. Donec feugiat finibus auctor. Praesent in nibh vel diam interdum tristique. Aenean at magna posuere odio faucibus egestas. Sed rhoncus est at purus vulputate, ac elementum ligula luctus. Aenean malesuada a risus volutpat scelerisque. Cras libero felis, blandit quis massa ut, posuere dignissim eros. Praesent accumsan accumsan nisi ac interdum. Nunc et risus fermentum neque sodales dignissim at eget mauris. Aliquam ac neque egestas, scelerisque ex ut, mattis mauris. Morbi ipsum felis, consectetur suscipit massa at, luctus consectetur quam. Sed vehicula quis purus vitae consectetur. Aenean posuere ipsum ultricies felis egestas, in volutpat neque gravida. Nullam vitae nibh tortor. </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;condiciones&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//p[@id='condiciones']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-dialog-0']/app-request-modal/div/div/p</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Términos y condiciones'])[1]/following::p[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='¿Estás seguro de hacer la reservación en Portico, Mazatlán?'])[1]/following::p[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelar'])[1]/preceding::p[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu tempus ipsum, in maximus ipsum. Phasellus vitae facilisis ante. Morbi auctor, ligula sed dapibus gravida, quam erat lacinia est, sed sagittis lorem mauris a nulla. Pellentesque accumsan eros sit amet risus venenatis congue. Fusce eu tincidunt ipsum. Quisque sed erat ac nisl tincidunt aliquam. Mauris orci magna, consectetur a nisi quis, interdum tempor felis. Aliquam ut turpis sagittis ipsum posuere auctor at ut justo. Donec non cursus purus, vitae scelerisque turpis. Maecenas convallis laoreet mauris eu commodo. In blandit tortor sit amet sapien egestas, nec vestibulum tellus sollicitudin. Nullam id ipsum nunc. Cras id malesuada nisl. In iaculis congue est, nec pretium mauris finibus sit amet. Quisque ut egestas magna. Ut sed lorem id quam commodo malesuada. Fusce vel sagittis quam. In id magna at elit lobortis posuere. Pellentesque dapibus nibh non sem tempus accumsan. Sed at lacus vitae nulla finibus tristique ut vel nibh. Donec at diam quis nisi pretium accumsan. Morbi turpis metus, interdum eu ex sed, luctus blandit ante. Praesent consectetur convallis ligula iaculis sagittis. Nullam vitae tincidunt ante, eget tincidunt nisi. Maecenas ac quam facilisis purus luctus pulvinar tristique nec dolor. Nulla in erat ut urna varius porttitor nec ac erat. Curabitur felis sem, feugiat eu luctus non, vulputate pellentesque ipsum. Pellentesque tristique ipsum sed erat mollis lobortis. Sed eget metus non leo molestie tempor vel sit amet nisi. Sed varius turpis ut purus vulputate, quis suscipit mi rhoncus. Fusce euismod blandit venenatis. Nam eu volutpat orci. Sed tincidunt libero nec nisl fringilla, eget malesuada mi sollicitudin. Cras mollis nunc in ipsum volutpat congue. Proin eleifend felis leo, quis scelerisque ex maximus eget. Proin vel ante vulputate, pulvinar nibh vel, cursus lorem. Fusce ac tortor diam. Nam molestie augue a magna viverra, quis rhoncus enim faucibus. Integer eget metus tortor. Integer hendrerit erat molestie lorem ultricies semper. Morbi ut semper risus. Morbi massa dolor, finibus consequat dui et, efficitur suscipit leo. Sed ante ex, tincidunt sit amet lacinia eu, viverra hendrerit arcu. Aliquam tincidunt non nulla vel rutrum. Cras luctus, leo non congue tristique, lorem orci fermentum nisi, ac congue neque elit sit amet ipsum. Pellentesque pretium augue quis feugiat scelerisque. Nulla mollis a nisi nec sodales. Maecenas tempor sit amet lacus quis elementum. Duis scelerisque faucibus nisl, sed interdum ante luctus a. Vestibulum interdum velit eu imperdiet placerat. Donec feugiat finibus auctor. Praesent in nibh vel diam interdum tristique. Aenean at magna posuere odio faucibus egestas. Sed rhoncus est at purus vulputate, ac elementum ligula luctus. Aenean malesuada a risus volutpat scelerisque. Cras libero felis, blandit quis massa ut, posuere dignissim eros. Praesent accumsan accumsan nisi ac interdum. Nunc et risus fermentum neque sodales dignissim at eget mauris. Aliquam ac neque egestas, scelerisque ex ut, mattis mauris. Morbi ipsum felis, consectetur suscipit massa at, luctus consectetur quam. Sed vehicula quis purus vitae consectetur. Aenean posuere ipsum ultricies felis egestas, in volutpat neque gravida. Nullam vitae nibh tortor.']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[@id = 'condiciones' and (text() = ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu tempus ipsum, in maximus ipsum. Phasellus vitae facilisis ante. Morbi auctor, ligula sed dapibus gravida, quam erat lacinia est, sed sagittis lorem mauris a nulla. Pellentesque accumsan eros sit amet risus venenatis congue. Fusce eu tincidunt ipsum. Quisque sed erat ac nisl tincidunt aliquam. Mauris orci magna, consectetur a nisi quis, interdum tempor felis. Aliquam ut turpis sagittis ipsum posuere auctor at ut justo. Donec non cursus purus, vitae scelerisque turpis. Maecenas convallis laoreet mauris eu commodo. In blandit tortor sit amet sapien egestas, nec vestibulum tellus sollicitudin. Nullam id ipsum nunc. Cras id malesuada nisl. In iaculis congue est, nec pretium mauris finibus sit amet. Quisque ut egestas magna. Ut sed lorem id quam commodo malesuada. Fusce vel sagittis quam. In id magna at elit lobortis posuere. Pellentesque dapibus nibh non sem tempus accumsan. Sed at lacus vitae nulla finibus tristique ut vel nibh. Donec at diam quis nisi pretium accumsan. Morbi turpis metus, interdum eu ex sed, luctus blandit ante. Praesent consectetur convallis ligula iaculis sagittis. Nullam vitae tincidunt ante, eget tincidunt nisi. Maecenas ac quam facilisis purus luctus pulvinar tristique nec dolor. Nulla in erat ut urna varius porttitor nec ac erat. Curabitur felis sem, feugiat eu luctus non, vulputate pellentesque ipsum. Pellentesque tristique ipsum sed erat mollis lobortis. Sed eget metus non leo molestie tempor vel sit amet nisi. Sed varius turpis ut purus vulputate, quis suscipit mi rhoncus. Fusce euismod blandit venenatis. Nam eu volutpat orci. Sed tincidunt libero nec nisl fringilla, eget malesuada mi sollicitudin. Cras mollis nunc in ipsum volutpat congue. Proin eleifend felis leo, quis scelerisque ex maximus eget. Proin vel ante vulputate, pulvinar nibh vel, cursus lorem. Fusce ac tortor diam. Nam molestie augue a magna viverra, quis rhoncus enim faucibus. Integer eget metus tortor. Integer hendrerit erat molestie lorem ultricies semper. Morbi ut semper risus. Morbi massa dolor, finibus consequat dui et, efficitur suscipit leo. Sed ante ex, tincidunt sit amet lacinia eu, viverra hendrerit arcu. Aliquam tincidunt non nulla vel rutrum. Cras luctus, leo non congue tristique, lorem orci fermentum nisi, ac congue neque elit sit amet ipsum. Pellentesque pretium augue quis feugiat scelerisque. Nulla mollis a nisi nec sodales. Maecenas tempor sit amet lacus quis elementum. Duis scelerisque faucibus nisl, sed interdum ante luctus a. Vestibulum interdum velit eu imperdiet placerat. Donec feugiat finibus auctor. Praesent in nibh vel diam interdum tristique. Aenean at magna posuere odio faucibus egestas. Sed rhoncus est at purus vulputate, ac elementum ligula luctus. Aenean malesuada a risus volutpat scelerisque. Cras libero felis, blandit quis massa ut, posuere dignissim eros. Praesent accumsan accumsan nisi ac interdum. Nunc et risus fermentum neque sodales dignissim at eget mauris. Aliquam ac neque egestas, scelerisque ex ut, mattis mauris. Morbi ipsum felis, consectetur suscipit massa at, luctus consectetur quam. Sed vehicula quis purus vitae consectetur. Aenean posuere ipsum ultricies felis egestas, in volutpat neque gravida. Nullam vitae nibh tortor. ' or . = ' Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu tempus ipsum, in maximus ipsum. Phasellus vitae facilisis ante. Morbi auctor, ligula sed dapibus gravida, quam erat lacinia est, sed sagittis lorem mauris a nulla. Pellentesque accumsan eros sit amet risus venenatis congue. Fusce eu tincidunt ipsum. Quisque sed erat ac nisl tincidunt aliquam. Mauris orci magna, consectetur a nisi quis, interdum tempor felis. Aliquam ut turpis sagittis ipsum posuere auctor at ut justo. Donec non cursus purus, vitae scelerisque turpis. Maecenas convallis laoreet mauris eu commodo. In blandit tortor sit amet sapien egestas, nec vestibulum tellus sollicitudin. Nullam id ipsum nunc. Cras id malesuada nisl. In iaculis congue est, nec pretium mauris finibus sit amet. Quisque ut egestas magna. Ut sed lorem id quam commodo malesuada. Fusce vel sagittis quam. In id magna at elit lobortis posuere. Pellentesque dapibus nibh non sem tempus accumsan. Sed at lacus vitae nulla finibus tristique ut vel nibh. Donec at diam quis nisi pretium accumsan. Morbi turpis metus, interdum eu ex sed, luctus blandit ante. Praesent consectetur convallis ligula iaculis sagittis. Nullam vitae tincidunt ante, eget tincidunt nisi. Maecenas ac quam facilisis purus luctus pulvinar tristique nec dolor. Nulla in erat ut urna varius porttitor nec ac erat. Curabitur felis sem, feugiat eu luctus non, vulputate pellentesque ipsum. Pellentesque tristique ipsum sed erat mollis lobortis. Sed eget metus non leo molestie tempor vel sit amet nisi. Sed varius turpis ut purus vulputate, quis suscipit mi rhoncus. Fusce euismod blandit venenatis. Nam eu volutpat orci. Sed tincidunt libero nec nisl fringilla, eget malesuada mi sollicitudin. Cras mollis nunc in ipsum volutpat congue. Proin eleifend felis leo, quis scelerisque ex maximus eget. Proin vel ante vulputate, pulvinar nibh vel, cursus lorem. Fusce ac tortor diam. Nam molestie augue a magna viverra, quis rhoncus enim faucibus. Integer eget metus tortor. Integer hendrerit erat molestie lorem ultricies semper. Morbi ut semper risus. Morbi massa dolor, finibus consequat dui et, efficitur suscipit leo. Sed ante ex, tincidunt sit amet lacinia eu, viverra hendrerit arcu. Aliquam tincidunt non nulla vel rutrum. Cras luctus, leo non congue tristique, lorem orci fermentum nisi, ac congue neque elit sit amet ipsum. Pellentesque pretium augue quis feugiat scelerisque. Nulla mollis a nisi nec sodales. Maecenas tempor sit amet lacus quis elementum. Duis scelerisque faucibus nisl, sed interdum ante luctus a. Vestibulum interdum velit eu imperdiet placerat. Donec feugiat finibus auctor. Praesent in nibh vel diam interdum tristique. Aenean at magna posuere odio faucibus egestas. Sed rhoncus est at purus vulputate, ac elementum ligula luctus. Aenean malesuada a risus volutpat scelerisque. Cras libero felis, blandit quis massa ut, posuere dignissim eros. Praesent accumsan accumsan nisi ac interdum. Nunc et risus fermentum neque sodales dignissim at eget mauris. Aliquam ac neque egestas, scelerisque ex ut, mattis mauris. Morbi ipsum felis, consectetur suscipit massa at, luctus consectetur quam. Sed vehicula quis purus vitae consectetur. Aenean posuere ipsum ultricies felis egestas, in volutpat neque gravida. Nullam vitae nibh tortor. ')]</value>
+   </webElementXpaths>
+</WebElementEntity>
